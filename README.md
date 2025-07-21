@@ -103,6 +103,6 @@ This guide is organized by **stages**, not weeks — allowing you to learn at yo
 - Autoloading classes using spl_autoload_register() or Composer if needed
 
 
-## 📢 Final Considerations
+## Final Considerations
 
 This is not just a personal notebook — it's a resource for anyone who wants to grow with PHP. Let’s learn together, build real applications, and explore what PHP is truly capable of.
