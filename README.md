@@ -3,7 +3,7 @@
 </div>
 
 <div style="margin-bottom: 20px;">
-  <h2>🔗 NAVIGATION </h2>
+  <h2>NAVIGATION </h2>
 
   <a href="#objective">OBJECTIVE</a> |
   <a href="#target-audience">TARGET AUDIENCE</a> |
@@ -105,4 +105,15 @@ This guide is organized by **stages**, not weeks — allowing you to learn at yo
 
 ## Final Considerations
 
-This is not just a personal notebook — it's a resource for anyone who wants to grow with PHP. Let’s learn together, build real applications, and explore what PHP is truly capable of.
+This documentation was created to organize and summarize the essential concepts and practices of the PHP programming language, from the most basic syntax to advanced topics such as APIs, architecture, and security.
+
+The goal is to provide a complete, hands-on learning path that makes PHP more accessible to developers who want to truly understand how it works under the hood — without relying exclusively on frameworks or external libraries.
+
+Whether you're starting your journey in backend development or revisiting PHP to strengthen your skills, this guide is designed to support your growth through structured content, practical examples, and real-world project ideas.
+
+Feel free to use, adapt, and contribute to this repository — both as a personal learning resource and a shared reference for the developer community. Let's build powerful applications with one of the most versatile and widely-used server-side languages in the world.
+
+
+**© 2025 EltonRuan. All rights reserved.**
+
+<footer align="center"> <img style="width:100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&color=FFFFFF&fontSize=50&fontAlign=50&strokeWidth=0&descAlignY=80&stroke=000000&reversal=false&section=footer"> </footer>
