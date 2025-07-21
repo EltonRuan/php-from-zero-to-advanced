@@ -102,6 +102,60 @@ This guide is organized by **stages**, not weeks — allowing you to learn at yo
 - Managing environment settings with a basic .env file parser (no external libraries)
 - Autoloading classes using spl_autoload_register() or Composer if needed
 
+## How to Run the Projects
+
+All projects and study materials are organized inside the root folder called php. The structure is designed to help you explore each learning stage separately, with dedicated folders for code, notes, and explanations.
+
+### Project Folder Structure
+
+<pre>
+php/
+├── steps/
+│   ├── stage-01-fundamentals/
+│   │   ├── code/       # PHP scripts and exercises
+│   │   ├── notes/      # Markdown files with explanations and study notes
+│   │   └── README.md   # Overview of this stage’s topics and projects
+│   ├── stage-02-forms/
+│   │   ├── code/
+│   │   ├── notes/
+│   │   └── README.md
+│   └── ... (other stages)
+└── README.md    # Main project readme (this file)
+</pre>
+
+### Running the Projects Locally
+
+To run the PHP projects on your computer, follow these steps:
+
+1.Install a local web server environment, if you haven't already:
+
+- For Windows: XAMPP, Laragon
+- For macOS: MAMP
+- For Linux: Use your distro’s Apache/PHP/MySQL packages
+
+2.Place the php folder inside your web server’s document root:
+
+- For XAMPP: usually C:\xampp\htdocs\
+- For MAMP: usually /Applications/MAMP/htdocs/
+- For Laragon: usually C:\laragon\www\
+
+3.Access the projects via browser:
+
+- Open your browser and go to http://localhost/php/steps/stage-01-fundamentals/code/intro.php (or whichever file you want to test)
+- Adjust the path based on the stage and file you want to run
+
+4.For projects that require a database:
+
+- Start your MySQL service from your server control panel
+- Import any .sql files provided (if available)
+- Configure database connection settings in the project’s config files or .env (if used)
+
+### Tips
+
+- Make sure your PHP version is 8.0 or higher for best compatibility.
+- Use an editor like VS Code or PHPStorm for better coding experience.
+- Always check each stage’s README.md inside the folders for detailed instructions or specific dependencies.
+- Feel free to modify and experiment with the code to deepen your understanding.
 
 ## Final Considerations
 
