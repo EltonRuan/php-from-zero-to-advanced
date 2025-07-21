@@ -8,6 +8,7 @@
   <a href="#objective">OBJECTIVE</a> |
   <a href="#target-audience">TARGET AUDIENCE</a> |
   <a href="#learning-stages">LEARNING STAGES</a> |
+  <a href="#how-to-run-the-projects">HOW TO RUN THE PROJECTS</a> |
   <a href="#final-considerations">FINAL CONSIDERATIONS</a>
 </div>
 
