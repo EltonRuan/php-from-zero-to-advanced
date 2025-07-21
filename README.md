@@ -1,5 +1,5 @@
 <div align='center'>
- <img style="width:100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=FFFFFF&text=PHP%20from%20zero%20to%20advanced&fontSize=50&fontAlign=50&strokeWidth=0">
+ <img style="width:100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=FFFFFF&text=PHP%20from%20zero%20to%20advanced&fontSize=50&fontAlign=50&strokeWidth=0&stroke=000000">
 </div>
 
 <div style="margin-bottom: 20px;">
